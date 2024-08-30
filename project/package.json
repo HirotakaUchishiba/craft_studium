@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "scripts": {
+      "build": "cd my-quiz-app && npm run build"
+    }
+  }
